@@ -206,6 +206,4 @@ MarketMind is restricted to sales and marketing topics only. Queries about progr
 
 > "I am MarketMind, a specialized Sales and Marketing Intelligence Assistant. I can only answer questions related to sales, marketing, lead generation, campaign strategy, market analysis, and business growth."
 
-## License
 
-MIT License
